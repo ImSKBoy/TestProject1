@@ -1,3 +1,4 @@
 #test
-a = "Test"
-print(a)
+a = 34
+b = 21
+print(a+b)
